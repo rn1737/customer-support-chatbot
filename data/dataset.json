@@ -1,0 +1,11 @@
+{
+    "products":[
+        {"name":"Classic T-Shirt","stock":25,"sold":120},
+        {"name":"Denim Jacket","stock":15,"sold":80}
+    ],
+
+    "orders":[
+        {"id":12345,"status":"Delivered"},
+        {"id":12346,"status":"Shipped"}
+    ]
+} 
